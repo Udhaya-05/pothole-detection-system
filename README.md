@@ -110,7 +110,16 @@ git clone https://github.com/your-username/pothole-detection.git
 cd pothole-detection
 pip install -r requirements.txt
 ```
+## 📦 Model Download
 
+The trained model is not included in this repository due to size limitations.
+
+Download it from here:
+👉 [https://your-google-drive-link](https://drive.google.com/file/d/1xHxpjutZtsKzfTs7YOjPuawwZRw1VrWW/view?usp=sharing)
+
+After downloading, place it inside:
+
+model/pothole_model.pth
 ---
 
 ## ▶️ Run the Application
